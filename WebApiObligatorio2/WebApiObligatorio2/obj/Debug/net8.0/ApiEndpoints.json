@@ -1,0 +1,243 @@
+[
+  {
+    "ContainingType": "WebApiObligatorio2.Controllers.ArticuloController",
+    "Method": "Get",
+    "RelativePath": "api/Articulo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApiObligatorio2.Controllers.ArticuloController",
+    "Method": "GetArticulosEntreFechas",
+    "RelativePath": "api/Articulo/{fechaIni}/{fechaFin}/{pagina}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fechaIni",
+        "Type": "System.DateTime",
+        "IsRequired": true
+      },
+      {
+        "Name": "fechaFin",
+        "Type": "System.DateTime",
+        "IsRequired": true
+      },
+      {
+        "Name": "pagina",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApiObligatorio2.Controllers.ArticuloController",
+    "Method": "CantidadPaginasEntreFechas",
+    "RelativePath": "api/Articulo/CantidadEntreFechas/{fechaIni}/{fechaFin}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fechaIni",
+        "Type": "System.DateTime",
+        "IsRequired": true
+      },
+      {
+        "Name": "fechaFin",
+        "Type": "System.DateTime",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApiObligatorio2.Controllers.MovimientoController",
+    "Method": "Post",
+    "RelativePath": "api/Movimiento",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "mDTO",
+        "Type": "DTOs.DTOAltaMovimiento",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApiObligatorio2.Controllers.MovimientoController",
+    "Method": "GetMovimientosdeArticulo",
+    "RelativePath": "api/Movimiento/{codigoArt}/{idTipo}/{pagina}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "codigoArt",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "idTipo",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "pagina",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApiObligatorio2.Controllers.MovimientoController",
+    "Method": "Get",
+    "RelativePath": "api/Movimiento/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApiObligatorio2.Controllers.MovimientoController",
+    "Method": "GetCantidadDeArticulo",
+    "RelativePath": "api/Movimiento/CantidadMovimientosDeArticulo/{codigoArt}/{idTipo}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "codigoArt",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "idTipo",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApiObligatorio2.Controllers.MovimientoController",
+    "Method": "GetResumen",
+    "RelativePath": "api/Movimiento/Resumen",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApiObligatorio2.Controllers.TipoMovimientoController",
+    "Method": "List",
+    "RelativePath": "api/TipoMovimiento",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApiObligatorio2.Controllers.TipoMovimientoController",
+    "Method": "Post",
+    "RelativePath": "api/TipoMovimiento",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tmDTO",
+        "Type": "DTOs.DTOAltaTipoMovimiento",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApiObligatorio2.Controllers.TipoMovimientoController",
+    "Method": "Get",
+    "RelativePath": "api/TipoMovimiento/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApiObligatorio2.Controllers.TipoMovimientoController",
+    "Method": "Delete",
+    "RelativePath": "api/TipoMovimiento/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApiObligatorio2.Controllers.TipoMovimientoController",
+    "Method": "Put",
+    "RelativePath": "api/TipoMovimiento/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "tmDTO",
+        "Type": "DTOs.DTOMostrarTipoMovimiento",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApiObligatorio2.Controllers.UsuarioController",
+    "Method": "Post",
+    "RelativePath": "api/Usuario/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "DTOs.DTOUsuario",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

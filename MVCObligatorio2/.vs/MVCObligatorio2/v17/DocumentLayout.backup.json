@@ -1,0 +1,554 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nico\\source\\repos\\MVCObligatorio2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9615E932-F85A-40CF-A8E1-8BC9805A6C9A}|MVCObligatorio2\\MVCObligatorio2.csproj|c:\\users\\nico\\source\\repos\\mvcobligatorio2\\mvcobligatorio2\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9615E932-F85A-40CF-A8E1-8BC9805A6C9A}|MVCObligatorio2\\MVCObligatorio2.csproj|solutionrelative:mvcobligatorio2\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9615E932-F85A-40CF-A8E1-8BC9805A6C9A}|MVCObligatorio2\\MVCObligatorio2.csproj|c:\\users\\nico\\source\\repos\\mvcobligatorio2\\mvcobligatorio2\\controllers\\articulocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9615E932-F85A-40CF-A8E1-8BC9805A6C9A}|MVCObligatorio2\\MVCObligatorio2.csproj|solutionrelative:mvcobligatorio2\\controllers\\articulocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9615E932-F85A-40CF-A8E1-8BC9805A6C9A}|MVCObligatorio2\\MVCObligatorio2.csproj|c:\\users\\nico\\source\\repos\\mvcobligatorio2\\mvcobligatorio2\\views\\movimiento\\movimientosdearticulo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9615E932-F85A-40CF-A8E1-8BC9805A6C9A}|MVCObligatorio2\\MVCObligatorio2.csproj|solutionrelative:mvcobligatorio2\\views\\movimiento\\movimientosdearticulo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9615E932-F85A-40CF-A8E1-8BC9805A6C9A}|MVCObligatorio2\\MVCObligatorio2.csproj|c:\\users\\nico\\source\\repos\\mvcobligatorio2\\mvcobligatorio2\\views\\movimiento\\resumen.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9615E932-F85A-40CF-A8E1-8BC9805A6C9A}|MVCObligatorio2\\MVCObligatorio2.csproj|solutionrelative:mvcobligatorio2\\views\\movimiento\\resumen.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9615E932-F85A-40CF-A8E1-8BC9805A6C9A}|MVCObligatorio2\\MVCObligatorio2.csproj|c:\\users\\nico\\source\\repos\\mvcobligatorio2\\mvcobligatorio2\\views\\movimiento\\alta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9615E932-F85A-40CF-A8E1-8BC9805A6C9A}|MVCObligatorio2\\MVCObligatorio2.csproj|solutionrelative:mvcobligatorio2\\views\\movimiento\\alta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9615E932-F85A-40CF-A8E1-8BC9805A6C9A}|MVCObligatorio2\\MVCObligatorio2.csproj|c:\\users\\nico\\source\\repos\\mvcobligatorio2\\mvcobligatorio2\\views\\articulo\\articulosconmovimiento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9615E932-F85A-40CF-A8E1-8BC9805A6C9A}|MVCObligatorio2\\MVCObligatorio2.csproj|solutionrelative:mvcobligatorio2\\views\\articulo\\articulosconmovimiento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9615E932-F85A-40CF-A8E1-8BC9805A6C9A}|MVCObligatorio2\\MVCObligatorio2.csproj|c:\\users\\nico\\source\\repos\\mvcobligatorio2\\mvcobligatorio2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9615E932-F85A-40CF-A8E1-8BC9805A6C9A}|MVCObligatorio2\\MVCObligatorio2.csproj|solutionrelative:mvcobligatorio2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9615E932-F85A-40CF-A8E1-8BC9805A6C9A}|MVCObligatorio2\\MVCObligatorio2.csproj|c:\\users\\nico\\source\\repos\\mvcobligatorio2\\mvcobligatorio2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9615E932-F85A-40CF-A8E1-8BC9805A6C9A}|MVCObligatorio2\\MVCObligatorio2.csproj|solutionrelative:mvcobligatorio2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9615E932-F85A-40CF-A8E1-8BC9805A6C9A}|MVCObligatorio2\\MVCObligatorio2.csproj|c:\\users\\nico\\source\\repos\\mvcobligatorio2\\mvcobligatorio2\\controllers\\movimientocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9615E932-F85A-40CF-A8E1-8BC9805A6C9A}|MVCObligatorio2\\MVCObligatorio2.csproj|solutionrelative:mvcobligatorio2\\controllers\\movimientocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9615E932-F85A-40CF-A8E1-8BC9805A6C9A}|MVCObligatorio2\\MVCObligatorio2.csproj|c:\\users\\nico\\source\\repos\\mvcobligatorio2\\mvcobligatorio2\\models\\resumenviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9615E932-F85A-40CF-A8E1-8BC9805A6C9A}|MVCObligatorio2\\MVCObligatorio2.csproj|solutionrelative:mvcobligatorio2\\models\\resumenviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9615E932-F85A-40CF-A8E1-8BC9805A6C9A}|MVCObligatorio2\\MVCObligatorio2.csproj|c:\\users\\nico\\source\\repos\\mvcobligatorio2\\mvcobligatorio2\\models\\resumentipoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9615E932-F85A-40CF-A8E1-8BC9805A6C9A}|MVCObligatorio2\\MVCObligatorio2.csproj|solutionrelative:mvcobligatorio2\\models\\resumentipoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA0B3DF-BF77-45E0-BD25-39CE3659799C}|DTOs\\DTOs.csproj|c:\\users\\nico\\source\\repos\\mvcobligatorio2\\dtos\\dtoresumentipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAA0B3DF-BF77-45E0-BD25-39CE3659799C}|DTOs\\DTOs.csproj|solutionrelative:dtos\\dtoresumentipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9615E932-F85A-40CF-A8E1-8BC9805A6C9A}|MVCObligatorio2\\MVCObligatorio2.csproj|c:\\users\\nico\\source\\repos\\mvcobligatorio2\\mvcobligatorio2\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9615E932-F85A-40CF-A8E1-8BC9805A6C9A}|MVCObligatorio2\\MVCObligatorio2.csproj|solutionrelative:mvcobligatorio2\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA0B3DF-BF77-45E0-BD25-39CE3659799C}|DTOs\\DTOs.csproj|c:\\users\\nico\\source\\repos\\mvcobligatorio2\\dtos\\dtousuariologueado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAA0B3DF-BF77-45E0-BD25-39CE3659799C}|DTOs\\DTOs.csproj|solutionrelative:dtos\\dtousuariologueado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA0B3DF-BF77-45E0-BD25-39CE3659799C}|DTOs\\DTOs.csproj|c:\\users\\nico\\source\\repos\\mvcobligatorio2\\dtos\\dtousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAA0B3DF-BF77-45E0-BD25-39CE3659799C}|DTOs\\DTOs.csproj|solutionrelative:dtos\\dtousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA0B3DF-BF77-45E0-BD25-39CE3659799C}|DTOs\\DTOs.csproj|c:\\users\\nico\\source\\repos\\mvcobligatorio2\\dtos\\dtotipomovimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAA0B3DF-BF77-45E0-BD25-39CE3659799C}|DTOs\\DTOs.csproj|solutionrelative:dtos\\dtotipomovimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA0B3DF-BF77-45E0-BD25-39CE3659799C}|DTOs\\DTOs.csproj|c:\\users\\nico\\source\\repos\\mvcobligatorio2\\dtos\\dtoresumen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAA0B3DF-BF77-45E0-BD25-39CE3659799C}|DTOs\\DTOs.csproj|solutionrelative:dtos\\dtoresumen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA0B3DF-BF77-45E0-BD25-39CE3659799C}|DTOs\\DTOs.csproj|c:\\users\\nico\\source\\repos\\mvcobligatorio2\\dtos\\dtomovimientocompleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAA0B3DF-BF77-45E0-BD25-39CE3659799C}|DTOs\\DTOs.csproj|solutionrelative:dtos\\dtomovimientocompleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA0B3DF-BF77-45E0-BD25-39CE3659799C}|DTOs\\DTOs.csproj|c:\\users\\nico\\source\\repos\\mvcobligatorio2\\dtos\\dtoarticuloreducido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAA0B3DF-BF77-45E0-BD25-39CE3659799C}|DTOs\\DTOs.csproj|solutionrelative:dtos\\dtoarticuloreducido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA0B3DF-BF77-45E0-BD25-39CE3659799C}|DTOs\\DTOs.csproj|c:\\users\\nico\\source\\repos\\mvcobligatorio2\\dtos\\dtoarticulomostrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAA0B3DF-BF77-45E0-BD25-39CE3659799C}|DTOs\\DTOs.csproj|solutionrelative:dtos\\dtoarticulomostrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA0B3DF-BF77-45E0-BD25-39CE3659799C}|DTOs\\DTOs.csproj|c:\\users\\nico\\source\\repos\\mvcobligatorio2\\dtos\\dtoaltamovimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAA0B3DF-BF77-45E0-BD25-39CE3659799C}|DTOs\\DTOs.csproj|solutionrelative:dtos\\dtoaltamovimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9615E932-F85A-40CF-A8E1-8BC9805A6C9A}|MVCObligatorio2\\MVCObligatorio2.csproj|c:\\users\\nico\\source\\repos\\mvcobligatorio2\\mvcobligatorio2\\clasesauxiliares\\herramientasapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9615E932-F85A-40CF-A8E1-8BC9805A6C9A}|MVCObligatorio2\\MVCObligatorio2.csproj|solutionrelative:mvcobligatorio2\\clasesauxiliares\\herramientasapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9615E932-F85A-40CF-A8E1-8BC9805A6C9A}|MVCObligatorio2\\MVCObligatorio2.csproj|c:\\users\\nico\\source\\repos\\mvcobligatorio2\\mvcobligatorio2\\models\\movimientocompletoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9615E932-F85A-40CF-A8E1-8BC9805A6C9A}|MVCObligatorio2\\MVCObligatorio2.csproj|solutionrelative:mvcobligatorio2\\models\\movimientocompletoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9615E932-F85A-40CF-A8E1-8BC9805A6C9A}|MVCObligatorio2\\MVCObligatorio2.csproj|c:\\users\\nico\\source\\repos\\mvcobligatorio2\\mvcobligatorio2\\models\\altamovimientoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9615E932-F85A-40CF-A8E1-8BC9805A6C9A}|MVCObligatorio2\\MVCObligatorio2.csproj|solutionrelative:mvcobligatorio2\\models\\altamovimientoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9615E932-F85A-40CF-A8E1-8BC9805A6C9A}|MVCObligatorio2\\MVCObligatorio2.csproj|c:\\users\\nico\\source\\repos\\mvcobligatorio2\\mvcobligatorio2\\exceptions\\excepcionpropiaexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9615E932-F85A-40CF-A8E1-8BC9805A6C9A}|MVCObligatorio2\\MVCObligatorio2.csproj|solutionrelative:mvcobligatorio2\\exceptions\\excepcionpropiaexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9615E932-F85A-40CF-A8E1-8BC9805A6C9A}|MVCObligatorio2\\MVCObligatorio2.csproj|c:\\users\\nico\\source\\repos\\mvcobligatorio2\\mvcobligatorio2\\models\\tipomovimientoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9615E932-F85A-40CF-A8E1-8BC9805A6C9A}|MVCObligatorio2\\MVCObligatorio2.csproj|solutionrelative:mvcobligatorio2\\models\\tipomovimientoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9615E932-F85A-40CF-A8E1-8BC9805A6C9A}|MVCObligatorio2\\MVCObligatorio2.csproj|c:\\users\\nico\\source\\repos\\mvcobligatorio2\\mvcobligatorio2\\models\\articuloreducidoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9615E932-F85A-40CF-A8E1-8BC9805A6C9A}|MVCObligatorio2\\MVCObligatorio2.csproj|solutionrelative:mvcobligatorio2\\models\\articuloreducidoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9615E932-F85A-40CF-A8E1-8BC9805A6C9A}|MVCObligatorio2\\MVCObligatorio2.csproj|c:\\users\\nico\\source\\repos\\mvcobligatorio2\\mvcobligatorio2\\models\\articuloviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9615E932-F85A-40CF-A8E1-8BC9805A6C9A}|MVCObligatorio2\\MVCObligatorio2.csproj|solutionrelative:mvcobligatorio2\\models\\articuloviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9615E932-F85A-40CF-A8E1-8BC9805A6C9A}|MVCObligatorio2\\MVCObligatorio2.csproj|c:\\users\\nico\\source\\repos\\mvcobligatorio2\\mvcobligatorio2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9615E932-F85A-40CF-A8E1-8BC9805A6C9A}|MVCObligatorio2\\MVCObligatorio2.csproj|solutionrelative:mvcobligatorio2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9615E932-F85A-40CF-A8E1-8BC9805A6C9A}|MVCObligatorio2\\MVCObligatorio2.csproj|c:\\users\\nico\\source\\repos\\mvcobligatorio2\\mvcobligatorio2\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9615E932-F85A-40CF-A8E1-8BC9805A6C9A}|MVCObligatorio2\\MVCObligatorio2.csproj|solutionrelative:mvcobligatorio2\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9615E932-F85A-40CF-A8E1-8BC9805A6C9A}|MVCObligatorio2\\MVCObligatorio2.csproj|c:\\users\\nico\\source\\repos\\mvcobligatorio2\\mvcobligatorio2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9615E932-F85A-40CF-A8E1-8BC9805A6C9A}|MVCObligatorio2\\MVCObligatorio2.csproj|solutionrelative:mvcobligatorio2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9615E932-F85A-40CF-A8E1-8BC9805A6C9A}|MVCObligatorio2\\MVCObligatorio2.csproj|c:\\users\\nico\\source\\repos\\mvcobligatorio2\\mvcobligatorio2\\mvcobligatorio2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9615E932-F85A-40CF-A8E1-8BC9805A6C9A}|MVCObligatorio2\\MVCObligatorio2.csproj|solutionrelative:mvcobligatorio2\\mvcobligatorio2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9615E932-F85A-40CF-A8E1-8BC9805A6C9A}|MVCObligatorio2\\MVCObligatorio2.csproj|c:\\users\\nico\\source\\repos\\mvcobligatorio2\\mvcobligatorio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9615E932-F85A-40CF-A8E1-8BC9805A6C9A}|MVCObligatorio2\\MVCObligatorio2.csproj|solutionrelative:mvcobligatorio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArticuloController.cs",
+              "DocumentMoniker": "C:\\Users\\Nico\\source\\repos\\MVCObligatorio2\\MVCObligatorio2\\Controllers\\ArticuloController.cs",
+              "RelativeDocumentMoniker": "MVCObligatorio2\\Controllers\\ArticuloController.cs",
+              "ToolTip": "C:\\Users\\Nico\\source\\repos\\MVCObligatorio2\\MVCObligatorio2\\Controllers\\ArticuloController.cs",
+              "RelativeToolTip": "MVCObligatorio2\\Controllers\\ArticuloController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAwwCIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T18:25:31.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ResumenViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Nico\\source\\repos\\MVCObligatorio2\\MVCObligatorio2\\Models\\ResumenViewModel.cs",
+              "RelativeDocumentMoniker": "MVCObligatorio2\\Models\\ResumenViewModel.cs",
+              "ToolTip": "C:\\Users\\Nico\\source\\repos\\MVCObligatorio2\\MVCObligatorio2\\Models\\ResumenViewModel.cs",
+              "RelativeToolTip": "MVCObligatorio2\\Models\\ResumenViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T19:20:06.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Resumen.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nico\\source\\repos\\MVCObligatorio2\\MVCObligatorio2\\Views\\Movimiento\\Resumen.cshtml",
+              "RelativeDocumentMoniker": "MVCObligatorio2\\Views\\Movimiento\\Resumen.cshtml",
+              "ToolTip": "C:\\Users\\Nico\\source\\repos\\MVCObligatorio2\\MVCObligatorio2\\Views\\Movimiento\\Resumen.cshtml",
+              "RelativeToolTip": "MVCObligatorio2\\Views\\Movimiento\\Resumen.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T20:21:57.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ArticulosConMovimiento.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nico\\source\\repos\\MVCObligatorio2\\MVCObligatorio2\\Views\\Articulo\\ArticulosConMovimiento.cshtml",
+              "RelativeDocumentMoniker": "MVCObligatorio2\\Views\\Articulo\\ArticulosConMovimiento.cshtml",
+              "ToolTip": "C:\\Users\\Nico\\source\\repos\\MVCObligatorio2\\MVCObligatorio2\\Views\\Articulo\\ArticulosConMovimiento.cshtml",
+              "RelativeToolTip": "MVCObligatorio2\\Views\\Articulo\\ArticulosConMovimiento.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-15T19:54:23.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nico\\source\\repos\\MVCObligatorio2\\MVCObligatorio2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVCObligatorio2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Nico\\source\\repos\\MVCObligatorio2\\MVCObligatorio2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVCObligatorio2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwBoAAACGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-15T20:49:11.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Alta.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nico\\source\\repos\\MVCObligatorio2\\MVCObligatorio2\\Views\\Movimiento\\Alta.cshtml",
+              "RelativeDocumentMoniker": "MVCObligatorio2\\Views\\Movimiento\\Alta.cshtml",
+              "ToolTip": "C:\\Users\\Nico\\source\\repos\\MVCObligatorio2\\MVCObligatorio2\\Views\\Movimiento\\Alta.cshtml",
+              "RelativeToolTip": "MVCObligatorio2\\Views\\Movimiento\\Alta.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T17:29:24.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovimientosDeArticulo.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nico\\source\\repos\\MVCObligatorio2\\MVCObligatorio2\\Views\\Movimiento\\MovimientosDeArticulo.cshtml",
+              "RelativeDocumentMoniker": "MVCObligatorio2\\Views\\Movimiento\\MovimientosDeArticulo.cshtml",
+              "ToolTip": "C:\\Users\\Nico\\source\\repos\\MVCObligatorio2\\MVCObligatorio2\\Views\\Movimiento\\MovimientosDeArticulo.cshtml",
+              "RelativeToolTip": "MVCObligatorio2\\Views\\Movimiento\\MovimientosDeArticulo.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T19:05:05.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Nico\\source\\repos\\MVCObligatorio2\\MVCObligatorio2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVCObligatorio2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Nico\\source\\repos\\MVCObligatorio2\\MVCObligatorio2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVCObligatorio2\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T17:31:50.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nico\\source\\repos\\MVCObligatorio2\\MVCObligatorio2\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCObligatorio2\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nico\\source\\repos\\MVCObligatorio2\\MVCObligatorio2\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "MVCObligatorio2\\Views\\Login\\Index.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAuwBUAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-15T18:05:54.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ResumenTipoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Nico\\source\\repos\\MVCObligatorio2\\MVCObligatorio2\\Models\\ResumenTipoViewModel.cs",
+              "RelativeDocumentMoniker": "MVCObligatorio2\\Models\\ResumenTipoViewModel.cs",
+              "ToolTip": "C:\\Users\\Nico\\source\\repos\\MVCObligatorio2\\MVCObligatorio2\\Models\\ResumenTipoViewModel.cs",
+              "RelativeToolTip": "MVCObligatorio2\\Models\\ResumenTipoViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T20:15:03.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DTOResumenTipo.cs",
+              "DocumentMoniker": "C:\\Users\\Nico\\source\\repos\\MVCObligatorio2\\DTOs\\DTOResumenTipo.cs",
+              "RelativeDocumentMoniker": "DTOs\\DTOResumenTipo.cs",
+              "ToolTip": "C:\\Users\\Nico\\source\\repos\\MVCObligatorio2\\DTOs\\DTOResumenTipo.cs",
+              "RelativeToolTip": "DTOs\\DTOResumenTipo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T20:11:32.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MovimientoController.cs",
+              "DocumentMoniker": "C:\\Users\\Nico\\source\\repos\\MVCObligatorio2\\MVCObligatorio2\\Controllers\\MovimientoController.cs",
+              "RelativeDocumentMoniker": "MVCObligatorio2\\Controllers\\MovimientoController.cs",
+              "ToolTip": "C:\\Users\\Nico\\source\\repos\\MVCObligatorio2\\MVCObligatorio2\\Controllers\\MovimientoController.cs",
+              "RelativeToolTip": "MVCObligatorio2\\Controllers\\MovimientoController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T16:58:12.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Nico\\source\\repos\\MVCObligatorio2\\MVCObligatorio2\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "MVCObligatorio2\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Nico\\source\\repos\\MVCObligatorio2\\MVCObligatorio2\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "MVCObligatorio2\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAwwAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T17:35:49.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DTOUsuarioLogueado.cs",
+              "DocumentMoniker": "C:\\Users\\Nico\\source\\repos\\MVCObligatorio2\\DTOs\\DTOUsuarioLogueado.cs",
+              "RelativeDocumentMoniker": "DTOs\\DTOUsuarioLogueado.cs",
+              "ToolTip": "C:\\Users\\Nico\\source\\repos\\MVCObligatorio2\\DTOs\\DTOUsuarioLogueado.cs",
+              "RelativeToolTip": "DTOs\\DTOUsuarioLogueado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T17:51:10.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DTOUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Nico\\source\\repos\\MVCObligatorio2\\DTOs\\DTOUsuario.cs",
+              "RelativeDocumentMoniker": "DTOs\\DTOUsuario.cs",
+              "ToolTip": "C:\\Users\\Nico\\source\\repos\\MVCObligatorio2\\DTOs\\DTOUsuario.cs",
+              "RelativeToolTip": "DTOs\\DTOUsuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T17:48:27.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DTOTipoMovimiento.cs",
+              "DocumentMoniker": "C:\\Users\\Nico\\source\\repos\\MVCObligatorio2\\DTOs\\DTOTipoMovimiento.cs",
+              "RelativeDocumentMoniker": "DTOs\\DTOTipoMovimiento.cs",
+              "ToolTip": "C:\\Users\\Nico\\source\\repos\\MVCObligatorio2\\DTOs\\DTOTipoMovimiento.cs",
+              "RelativeToolTip": "DTOs\\DTOTipoMovimiento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T17:39:08.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DTOResumen.cs",
+              "DocumentMoniker": "C:\\Users\\Nico\\source\\repos\\MVCObligatorio2\\DTOs\\DTOResumen.cs",
+              "RelativeDocumentMoniker": "DTOs\\DTOResumen.cs",
+              "ToolTip": "C:\\Users\\Nico\\source\\repos\\MVCObligatorio2\\DTOs\\DTOResumen.cs",
+              "RelativeToolTip": "DTOs\\DTOResumen.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T19:19:39.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DTOMovimientoCompleto.cs",
+              "DocumentMoniker": "C:\\Users\\Nico\\source\\repos\\MVCObligatorio2\\DTOs\\DTOMovimientoCompleto.cs",
+              "RelativeDocumentMoniker": "DTOs\\DTOMovimientoCompleto.cs",
+              "ToolTip": "C:\\Users\\Nico\\source\\repos\\MVCObligatorio2\\DTOs\\DTOMovimientoCompleto.cs",
+              "RelativeToolTip": "DTOs\\DTOMovimientoCompleto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T18:33:33.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DTOArticuloReducido.cs",
+              "DocumentMoniker": "C:\\Users\\Nico\\source\\repos\\MVCObligatorio2\\DTOs\\DTOArticuloReducido.cs",
+              "RelativeDocumentMoniker": "DTOs\\DTOArticuloReducido.cs",
+              "ToolTip": "C:\\Users\\Nico\\source\\repos\\MVCObligatorio2\\DTOs\\DTOArticuloReducido.cs",
+              "RelativeToolTip": "DTOs\\DTOArticuloReducido.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T17:14:31.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DTOArticuloMostrar.cs",
+              "DocumentMoniker": "C:\\Users\\Nico\\source\\repos\\MVCObligatorio2\\DTOs\\DTOArticuloMostrar.cs",
+              "RelativeDocumentMoniker": "DTOs\\DTOArticuloMostrar.cs",
+              "ToolTip": "C:\\Users\\Nico\\source\\repos\\MVCObligatorio2\\DTOs\\DTOArticuloMostrar.cs",
+              "RelativeToolTip": "DTOs\\DTOArticuloMostrar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T19:11:48.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DTOAltaMovimiento.cs",
+              "DocumentMoniker": "C:\\Users\\Nico\\source\\repos\\MVCObligatorio2\\DTOs\\DTOAltaMovimiento.cs",
+              "RelativeDocumentMoniker": "DTOs\\DTOAltaMovimiento.cs",
+              "ToolTip": "C:\\Users\\Nico\\source\\repos\\MVCObligatorio2\\DTOs\\DTOAltaMovimiento.cs",
+              "RelativeToolTip": "DTOs\\DTOAltaMovimiento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T17:04:35.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HerramientasAPI.cs",
+              "DocumentMoniker": "C:\\Users\\Nico\\source\\repos\\MVCObligatorio2\\MVCObligatorio2\\ClasesAuxiliares\\HerramientasAPI.cs",
+              "RelativeDocumentMoniker": "MVCObligatorio2\\ClasesAuxiliares\\HerramientasAPI.cs",
+              "ToolTip": "C:\\Users\\Nico\\source\\repos\\MVCObligatorio2\\MVCObligatorio2\\ClasesAuxiliares\\HerramientasAPI.cs",
+              "RelativeToolTip": "MVCObligatorio2\\ClasesAuxiliares\\HerramientasAPI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T18:00:48.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AltaMovimientoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Nico\\source\\repos\\MVCObligatorio2\\MVCObligatorio2\\Models\\AltaMovimientoViewModel.cs",
+              "RelativeDocumentMoniker": "MVCObligatorio2\\Models\\AltaMovimientoViewModel.cs",
+              "ToolTip": "C:\\Users\\Nico\\source\\repos\\MVCObligatorio2\\MVCObligatorio2\\Models\\AltaMovimientoViewModel.cs",
+              "RelativeToolTip": "MVCObligatorio2\\Models\\AltaMovimientoViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T16:58:43.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MovimientoCompletoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Nico\\source\\repos\\MVCObligatorio2\\MVCObligatorio2\\Models\\MovimientoCompletoViewModel.cs",
+              "RelativeDocumentMoniker": "MVCObligatorio2\\Models\\MovimientoCompletoViewModel.cs",
+              "ToolTip": "C:\\Users\\Nico\\source\\repos\\MVCObligatorio2\\MVCObligatorio2\\Models\\MovimientoCompletoViewModel.cs",
+              "RelativeToolTip": "MVCObligatorio2\\Models\\MovimientoCompletoViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T18:24:45.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ExcepcionPropiaException.cs",
+              "DocumentMoniker": "C:\\Users\\Nico\\source\\repos\\MVCObligatorio2\\MVCObligatorio2\\Exceptions\\ExcepcionPropiaException.cs",
+              "RelativeDocumentMoniker": "MVCObligatorio2\\Exceptions\\ExcepcionPropiaException.cs",
+              "ToolTip": "C:\\Users\\Nico\\source\\repos\\MVCObligatorio2\\MVCObligatorio2\\Exceptions\\ExcepcionPropiaException.cs",
+              "RelativeToolTip": "MVCObligatorio2\\Exceptions\\ExcepcionPropiaException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T17:53:41.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ArticuloReducidoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Nico\\source\\repos\\MVCObligatorio2\\MVCObligatorio2\\Models\\ArticuloReducidoViewModel.cs",
+              "RelativeDocumentMoniker": "MVCObligatorio2\\Models\\ArticuloReducidoViewModel.cs",
+              "ToolTip": "C:\\Users\\Nico\\source\\repos\\MVCObligatorio2\\MVCObligatorio2\\Models\\ArticuloReducidoViewModel.cs",
+              "RelativeToolTip": "MVCObligatorio2\\Models\\ArticuloReducidoViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T17:18:30.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TipoMovimientoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Nico\\source\\repos\\MVCObligatorio2\\MVCObligatorio2\\Models\\TipoMovimientoViewModel.cs",
+              "RelativeDocumentMoniker": "MVCObligatorio2\\Models\\TipoMovimientoViewModel.cs",
+              "ToolTip": "C:\\Users\\Nico\\source\\repos\\MVCObligatorio2\\MVCObligatorio2\\Models\\TipoMovimientoViewModel.cs",
+              "RelativeToolTip": "MVCObligatorio2\\Models\\TipoMovimientoViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T17:40:47.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ArticuloViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Nico\\source\\repos\\MVCObligatorio2\\MVCObligatorio2\\Models\\ArticuloViewModel.cs",
+              "RelativeDocumentMoniker": "MVCObligatorio2\\Models\\ArticuloViewModel.cs",
+              "ToolTip": "C:\\Users\\Nico\\source\\repos\\MVCObligatorio2\\MVCObligatorio2\\Models\\ArticuloViewModel.cs",
+              "RelativeToolTip": "MVCObligatorio2\\Models\\ArticuloViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T18:30:39.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nico\\source\\repos\\MVCObligatorio2\\MVCObligatorio2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCObligatorio2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nico\\source\\repos\\MVCObligatorio2\\MVCObligatorio2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVCObligatorio2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-15T18:06:34.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MVCObligatorio2.csproj",
+              "DocumentMoniker": "C:\\Users\\Nico\\source\\repos\\MVCObligatorio2\\MVCObligatorio2\\MVCObligatorio2.csproj",
+              "RelativeDocumentMoniker": "MVCObligatorio2\\MVCObligatorio2.csproj",
+              "ToolTip": "C:\\Users\\Nico\\source\\repos\\MVCObligatorio2\\MVCObligatorio2\\MVCObligatorio2.csproj",
+              "RelativeToolTip": "MVCObligatorio2\\MVCObligatorio2.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-15T17:38:34.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Nico\\source\\repos\\MVCObligatorio2\\MVCObligatorio2\\appsettings.json",
+              "RelativeDocumentMoniker": "MVCObligatorio2\\appsettings.json",
+              "ToolTip": "C:\\Users\\Nico\\source\\repos\\MVCObligatorio2\\MVCObligatorio2\\appsettings.json",
+              "RelativeToolTip": "MVCObligatorio2\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-15T17:55:39.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nico\\source\\repos\\MVCObligatorio2\\MVCObligatorio2\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "MVCObligatorio2\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Nico\\source\\repos\\MVCObligatorio2\\MVCObligatorio2\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "MVCObligatorio2\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-15T20:49:08.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nico\\source\\repos\\MVCObligatorio2\\MVCObligatorio2\\Program.cs",
+              "RelativeDocumentMoniker": "MVCObligatorio2\\Program.cs",
+              "ToolTip": "C:\\Users\\Nico\\source\\repos\\MVCObligatorio2\\MVCObligatorio2\\Program.cs",
+              "RelativeToolTip": "MVCObligatorio2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T17:32:09.668Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+﻿@model MVCObligatorio2.Models.AltaMovimientoViewModel
+
+@{
+    ViewData["Title"] = "Alta";
+}
+
+<h1>Alta de Movimiento</h1>
+
+<span>@ViewBag.Mensaje</span>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Alta">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="CodigoArti" class="control-label">Articulo</label>
+                <select asp-for="CodigoArti" class="form-control">
+                    <option value="XX">Seleccione...</option>
+                    @if(Model.Articulos != null){
+                        @for(int i = 0; i< Model.Articulos.Count;i++){
+                            <option value=@Model.Articulos[i].Codigo>@Model.Articulos[i].Nombre</option>
+                        }
+                    }
+                </select>
+            </div>
+            <div class="form-group">
+                <label asp-for="IdTipo" class="control-label">Tipo de Movimiento</label>
+                <select asp-for="IdTipo" class="form-control">
+                    <option value="XX">Seleccione...</option>
+                    @if(Model.Tipos != null){
+                        @for (int i = 0; i < Model.Tipos.Count; i++) {
+                            <option value=@Model.Tipos[i].Id>@Model.Tipos[i].Nombre</option>
+                        }
+                    }
+                </select>
+            </div>
+            <div class="form-group">
+                <label asp-for="Cantidad" class="control-label"></label>
+                <input asp-for="Cantidad" class="form-control" />
+                <span asp-validation-for="Cantidad" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,52 @@
+﻿@model IEnumerable<MVCObligatorio2.Models.ResumenViewModel>
+
+@{
+    ViewData["Title"] = "Resumen";
+}
+
+<h1>Resumen</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Anio)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cantidad)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Anio)
+            </td>
+            <td style="text-align:center">
+                @Html.DisplayFor(modelItem => item.Cantidad)
+            </td>
+            <td>
+                <table>
+                    <thead>
+                        <th>Tipo</th>
+                        <th style="text-align:center">Cantidad</th>
+                    </thead>
+                    <tbody>
+                    @foreach(var subItem in item.ResumenesTipo) {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => subItem.NombreTipo)
+                            </td>
+                            <td style="text-align:center">
+                                @Html.DisplayFor(modelItem => subItem.Cantidad)
+                            </td>
+                        </tr>
+                    }
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

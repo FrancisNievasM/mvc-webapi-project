@@ -1,0 +1,244 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mojar\\OneDrive\\Escritorio\\Estudio\\P3\\Obligatorio2P3_Manuel-Saez-309839_Francis-Nievas-327206\\WebApiObligatorio2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C29E22A-EAD9-48BC-981C-3138F981B638}|WebApiObligatorio2\\WebApiObligatorio2.csproj|c:\\users\\mojar\\onedrive\\escritorio\\estudio\\p3\\obligatorio2p3_manuel-saez-309839_francis-nievas-327206\\webapiobligatorio2\\webapiobligatorio2\\controllers\\articulocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C29E22A-EAD9-48BC-981C-3138F981B638}|WebApiObligatorio2\\WebApiObligatorio2.csproj|solutionrelative:webapiobligatorio2\\controllers\\articulocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C29E22A-EAD9-48BC-981C-3138F981B638}|WebApiObligatorio2\\WebApiObligatorio2.csproj|c:\\users\\mojar\\onedrive\\escritorio\\estudio\\p3\\obligatorio2p3_manuel-saez-309839_francis-nievas-327206\\webapiobligatorio2\\webapiobligatorio2\\controllers\\movimientocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C29E22A-EAD9-48BC-981C-3138F981B638}|WebApiObligatorio2\\WebApiObligatorio2.csproj|solutionrelative:webapiobligatorio2\\controllers\\movimientocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1623AD-F24C-4F72-88B7-3B1E24DF827D}|DTOs\\DTOs.csproj|c:\\users\\mojar\\onedrive\\escritorio\\estudio\\p3\\obligatorio2p3_manuel-saez-309839_francis-nievas-327206\\webapiobligatorio2\\dtos\\movimientomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA1623AD-F24C-4F72-88B7-3B1E24DF827D}|DTOs\\DTOs.csproj|solutionrelative:dtos\\movimientomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42668EB4-329B-40AD-A6F0-DE7161526A41}|Logica Negocio\\LogicaNegocio.csproj|c:\\users\\mojar\\onedrive\\escritorio\\estudio\\p3\\obligatorio2p3_manuel-saez-309839_francis-nievas-327206\\webapiobligatorio2\\logica negocio\\interfacesrepositorios\\irepositorioparametros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42668EB4-329B-40AD-A6F0-DE7161526A41}|Logica Negocio\\LogicaNegocio.csproj|solutionrelative:logica negocio\\interfacesrepositorios\\irepositorioparametros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36FA41C5-5A34-4740-984D-6781DDFC4961}|Logica de Aplicacion\\LogicaAplicacion.csproj|c:\\users\\mojar\\onedrive\\escritorio\\estudio\\p3\\obligatorio2p3_manuel-saez-309839_francis-nievas-327206\\webapiobligatorio2\\logica de aplicacion\\interfacescasosuso\\icucantmaxmovporpagina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36FA41C5-5A34-4740-984D-6781DDFC4961}|Logica de Aplicacion\\LogicaAplicacion.csproj|solutionrelative:logica de aplicacion\\interfacescasosuso\\icucantmaxmovporpagina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36FA41C5-5A34-4740-984D-6781DDFC4961}|Logica de Aplicacion\\LogicaAplicacion.csproj|c:\\users\\mojar\\onedrive\\escritorio\\estudio\\p3\\obligatorio2p3_manuel-saez-309839_francis-nievas-327206\\webapiobligatorio2\\logica de aplicacion\\casosuso\\cucantmaxmovporpagina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36FA41C5-5A34-4740-984D-6781DDFC4961}|Logica de Aplicacion\\LogicaAplicacion.csproj|solutionrelative:logica de aplicacion\\casosuso\\cucantmaxmovporpagina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C29E22A-EAD9-48BC-981C-3138F981B638}|WebApiObligatorio2\\WebApiObligatorio2.csproj|c:\\users\\mojar\\onedrive\\escritorio\\estudio\\p3\\obligatorio2p3_manuel-saez-309839_francis-nievas-327206\\webapiobligatorio2\\webapiobligatorio2\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C29E22A-EAD9-48BC-981C-3138F981B638}|WebApiObligatorio2\\WebApiObligatorio2.csproj|solutionrelative:webapiobligatorio2\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42668EB4-329B-40AD-A6F0-DE7161526A41}|Logica Negocio\\LogicaNegocio.csproj|c:\\users\\mojar\\onedrive\\escritorio\\estudio\\p3\\obligatorio2p3_manuel-saez-309839_francis-nievas-327206\\webapiobligatorio2\\logica negocio\\vos\\tipousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42668EB4-329B-40AD-A6F0-DE7161526A41}|Logica Negocio\\LogicaNegocio.csproj|solutionrelative:logica negocio\\vos\\tipousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1623AD-F24C-4F72-88B7-3B1E24DF827D}|DTOs\\DTOs.csproj|c:\\users\\mojar\\onedrive\\escritorio\\estudio\\p3\\obligatorio2p3_manuel-saez-309839_francis-nievas-327206\\webapiobligatorio2\\dtos\\usuariomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA1623AD-F24C-4F72-88B7-3B1E24DF827D}|DTOs\\DTOs.csproj|solutionrelative:dtos\\usuariomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1623AD-F24C-4F72-88B7-3B1E24DF827D}|DTOs\\DTOs.csproj|c:\\users\\mojar\\onedrive\\escritorio\\estudio\\p3\\obligatorio2p3_manuel-saez-309839_francis-nievas-327206\\webapiobligatorio2\\dtos\\dtousuariologueado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA1623AD-F24C-4F72-88B7-3B1E24DF827D}|DTOs\\DTOs.csproj|solutionrelative:dtos\\dtousuariologueado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1623AD-F24C-4F72-88B7-3B1E24DF827D}|DTOs\\DTOs.csproj|c:\\users\\mojar\\onedrive\\escritorio\\estudio\\p3\\obligatorio2p3_manuel-saez-309839_francis-nievas-327206\\webapiobligatorio2\\dtos\\dtousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA1623AD-F24C-4F72-88B7-3B1E24DF827D}|DTOs\\DTOs.csproj|solutionrelative:dtos\\dtousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArticuloController.cs",
+              "DocumentMoniker": "C:\\Users\\mojar\\OneDrive\\Escritorio\\Estudio\\P3\\Obligatorio2P3_Manuel-Saez-309839_Francis-Nievas-327206\\WebApiObligatorio2\\WebApiObligatorio2\\Controllers\\ArticuloController.cs",
+              "RelativeDocumentMoniker": "WebApiObligatorio2\\Controllers\\ArticuloController.cs",
+              "ToolTip": "C:\\Users\\mojar\\OneDrive\\Escritorio\\Estudio\\P3\\Obligatorio2P3_Manuel-Saez-309839_Francis-Nievas-327206\\WebApiObligatorio2\\WebApiObligatorio2\\Controllers\\ArticuloController.cs",
+              "RelativeToolTip": "WebApiObligatorio2\\Controllers\\ArticuloController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA0wBgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T19:30:54.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovimientoController.cs",
+              "DocumentMoniker": "C:\\Users\\mojar\\OneDrive\\Escritorio\\Estudio\\P3\\Obligatorio2P3_Manuel-Saez-309839_Francis-Nievas-327206\\WebApiObligatorio2\\WebApiObligatorio2\\Controllers\\MovimientoController.cs",
+              "RelativeDocumentMoniker": "WebApiObligatorio2\\Controllers\\MovimientoController.cs",
+              "ToolTip": "C:\\Users\\mojar\\OneDrive\\Escritorio\\Estudio\\P3\\Obligatorio2P3_Manuel-Saez-309839_Francis-Nievas-327206\\WebApiObligatorio2\\WebApiObligatorio2\\Controllers\\MovimientoController.cs",
+              "RelativeToolTip": "WebApiObligatorio2\\Controllers\\MovimientoController.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAhwHcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T19:26:27.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRepositorioParametros.cs",
+              "DocumentMoniker": "C:\\Users\\mojar\\OneDrive\\Escritorio\\Estudio\\P3\\Obligatorio2P3_Manuel-Saez-309839_Francis-Nievas-327206\\WebApiObligatorio2\\Logica Negocio\\InterfacesRepositorios\\IRepositorioParametros.cs",
+              "RelativeDocumentMoniker": "Logica Negocio\\InterfacesRepositorios\\IRepositorioParametros.cs",
+              "ToolTip": "C:\\Users\\mojar\\OneDrive\\Escritorio\\Estudio\\P3\\Obligatorio2P3_Manuel-Saez-309839_Francis-Nievas-327206\\WebApiObligatorio2\\Logica Negocio\\InterfacesRepositorios\\IRepositorioParametros.cs",
+              "RelativeToolTip": "Logica Negocio\\InterfacesRepositorios\\IRepositorioParametros.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T19:26:25.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICUCantMaxMovPorPagina.cs",
+              "DocumentMoniker": "C:\\Users\\mojar\\OneDrive\\Escritorio\\Estudio\\P3\\Obligatorio2P3_Manuel-Saez-309839_Francis-Nievas-327206\\WebApiObligatorio2\\Logica de Aplicacion\\InterfacesCasosUso\\ICUCantMaxMovPorPagina.cs",
+              "RelativeDocumentMoniker": "Logica de Aplicacion\\InterfacesCasosUso\\ICUCantMaxMovPorPagina.cs",
+              "ToolTip": "C:\\Users\\mojar\\OneDrive\\Escritorio\\Estudio\\P3\\Obligatorio2P3_Manuel-Saez-309839_Francis-Nievas-327206\\WebApiObligatorio2\\Logica de Aplicacion\\InterfacesCasosUso\\ICUCantMaxMovPorPagina.cs",
+              "RelativeToolTip": "Logica de Aplicacion\\InterfacesCasosUso\\ICUCantMaxMovPorPagina.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T19:26:22.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CUCantMaxMovPorPagina.cs",
+              "DocumentMoniker": "C:\\Users\\mojar\\OneDrive\\Escritorio\\Estudio\\P3\\Obligatorio2P3_Manuel-Saez-309839_Francis-Nievas-327206\\WebApiObligatorio2\\Logica de Aplicacion\\CasosUso\\CUCantMaxMovPorPagina.cs",
+              "RelativeDocumentMoniker": "Logica de Aplicacion\\CasosUso\\CUCantMaxMovPorPagina.cs",
+              "ToolTip": "C:\\Users\\mojar\\OneDrive\\Escritorio\\Estudio\\P3\\Obligatorio2P3_Manuel-Saez-309839_Francis-Nievas-327206\\WebApiObligatorio2\\Logica de Aplicacion\\CasosUso\\CUCantMaxMovPorPagina.cs",
+              "RelativeToolTip": "Logica de Aplicacion\\CasosUso\\CUCantMaxMovPorPagina.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T19:26:11.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TipoUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\mojar\\OneDrive\\Escritorio\\Estudio\\P3\\Obligatorio2P3_Manuel-Saez-309839_Francis-Nievas-327206\\WebApiObligatorio2\\Logica Negocio\\VOs\\TipoUsuario.cs",
+              "RelativeDocumentMoniker": "Logica Negocio\\VOs\\TipoUsuario.cs",
+              "ToolTip": "C:\\Users\\mojar\\OneDrive\\Escritorio\\Estudio\\P3\\Obligatorio2P3_Manuel-Saez-309839_Francis-Nievas-327206\\WebApiObligatorio2\\Logica Negocio\\VOs\\TipoUsuario.cs",
+              "RelativeToolTip": "Logica Negocio\\VOs\\TipoUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T02:06:02.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovimientoMapper.cs",
+              "DocumentMoniker": "C:\\Users\\mojar\\OneDrive\\Escritorio\\Estudio\\P3\\Obligatorio2P3_Manuel-Saez-309839_Francis-Nievas-327206\\WebApiObligatorio2\\DTOs\\MovimientoMapper.cs",
+              "RelativeDocumentMoniker": "DTOs\\MovimientoMapper.cs",
+              "ToolTip": "C:\\Users\\mojar\\OneDrive\\Escritorio\\Estudio\\P3\\Obligatorio2P3_Manuel-Saez-309839_Francis-Nievas-327206\\WebApiObligatorio2\\DTOs\\MovimientoMapper.cs",
+              "RelativeToolTip": "DTOs\\MovimientoMapper.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwBsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T00:39:12.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsuarioMapper.cs",
+              "DocumentMoniker": "C:\\Users\\mojar\\OneDrive\\Escritorio\\Estudio\\P3\\Obligatorio2P3_Manuel-Saez-309839_Francis-Nievas-327206\\WebApiObligatorio2\\DTOs\\UsuarioMapper.cs",
+              "RelativeDocumentMoniker": "DTOs\\UsuarioMapper.cs",
+              "ToolTip": "C:\\Users\\mojar\\OneDrive\\Escritorio\\Estudio\\P3\\Obligatorio2P3_Manuel-Saez-309839_Francis-Nievas-327206\\WebApiObligatorio2\\DTOs\\UsuarioMapper.cs",
+              "RelativeToolTip": "DTOs\\UsuarioMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T01:02:24.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DTOUsuarioLogueado.cs",
+              "DocumentMoniker": "C:\\Users\\mojar\\OneDrive\\Escritorio\\Estudio\\P3\\Obligatorio2P3_Manuel-Saez-309839_Francis-Nievas-327206\\WebApiObligatorio2\\DTOs\\DTOUsuarioLogueado.cs",
+              "RelativeDocumentMoniker": "DTOs\\DTOUsuarioLogueado.cs",
+              "ToolTip": "C:\\Users\\mojar\\OneDrive\\Escritorio\\Estudio\\P3\\Obligatorio2P3_Manuel-Saez-309839_Francis-Nievas-327206\\WebApiObligatorio2\\DTOs\\DTOUsuarioLogueado.cs",
+              "RelativeToolTip": "DTOs\\DTOUsuarioLogueado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T00:39:10.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DTOUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\mojar\\OneDrive\\Escritorio\\Estudio\\P3\\Obligatorio2P3_Manuel-Saez-309839_Francis-Nievas-327206\\WebApiObligatorio2\\DTOs\\DTOUsuario.cs",
+              "RelativeDocumentMoniker": "DTOs\\DTOUsuario.cs",
+              "ToolTip": "C:\\Users\\mojar\\OneDrive\\Escritorio\\Estudio\\P3\\Obligatorio2P3_Manuel-Saez-309839_Francis-Nievas-327206\\WebApiObligatorio2\\DTOs\\DTOUsuario.cs",
+              "RelativeToolTip": "DTOs\\DTOUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T00:38:54.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\mojar\\OneDrive\\Escritorio\\Estudio\\P3\\Obligatorio2P3_Manuel-Saez-309839_Francis-Nievas-327206\\WebApiObligatorio2\\WebApiObligatorio2\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "WebApiObligatorio2\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\mojar\\OneDrive\\Escritorio\\Estudio\\P3\\Obligatorio2P3_Manuel-Saez-309839_Francis-Nievas-327206\\WebApiObligatorio2\\WebApiObligatorio2\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "WebApiObligatorio2\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T16:52:11.255Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 637,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 50,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

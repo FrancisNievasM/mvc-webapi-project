@@ -1,0 +1,85 @@
+﻿@model IEnumerable<MVCObligatorio2.Models.MovimientoCompletoViewModel>
+
+@{
+    ViewData["Title"] = "MovimientosDeArticulo";
+}
+
+<h1>Movimientos De Articulo</h1>
+
+<span>@ViewBag.Mensaje</span>
+<br>
+<form action="MovimientosDeArticulo" method="post">
+    <label for="txtCodigoArt">Código del articulo</label>
+    <input type="text" name="codigoArt" id="txtCodigoArt">
+    <label for="txtIdTipo">Id del Tipo de movimiento</label>
+    <input type="text" name="idTipo" id="txtIdTipo">
+    <input type="submit" value="Listar" id="btnListarMovimientos">
+</form>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Mail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NombreTipo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TipoTipo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NombreArticulo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cantidad)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Fecha)
+            </th>
+            
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@if(Model != null){
+    @foreach (var item in Model) {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Mail)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NombreTipo)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TipoTipo)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NombreArticulo)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Cantidad)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Fecha)
+                </td>
+            </tr>
+    }
+}
+    </tbody>
+</table>
+<div style="display:flex;justify-content:center;">
+    @for (int i = 1; i <= ViewBag.Paginas; i++) {
+        <form method="post">
+            <input type="submit" value="@i">
+            <input type="hidden" name="pagina" value="@i">
+            <input type="hidden" name="codigoArt" value="@ViewBag.CodigoArt">
+            <input type="hidden" name="idTipo" value="@ViewBag.IdTipo">
+        </form>
+    }
+</div>

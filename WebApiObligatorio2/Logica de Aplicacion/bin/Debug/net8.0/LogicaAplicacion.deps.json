@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LogicaAplicacion/1.0.0": {
+        "dependencies": {
+          "DTOs": "1.0.0",
+          "LogicaNegocio": "1.0.0"
+        },
+        "runtime": {
+          "LogicaAplicacion.dll": {}
+        }
+      },
+      "DTOs/1.0.0": {
+        "dependencies": {
+          "LogicaNegocio": "1.0.0"
+        },
+        "runtime": {
+          "DTOs.dll": {}
+        }
+      },
+      "LogicaNegocio/1.0.0": {
+        "runtime": {
+          "LogicaNegocio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LogicaAplicacion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DTOs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LogicaNegocio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

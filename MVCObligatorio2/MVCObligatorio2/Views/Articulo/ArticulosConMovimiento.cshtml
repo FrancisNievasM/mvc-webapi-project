@@ -1,0 +1,65 @@
+﻿@model IEnumerable<MVCObligatorio2.Models.ArticuloViewModel>
+
+@{
+    ViewData["Title"] = "ArticulosConMovimiento";
+}
+
+<h1>Lista de Articulos con Movimientos</h1>
+<span>@ViewBag.Mensaje</span>
+<br>
+<form action="ArticulosConMovimiento" method="post">
+    <label for="dateFechaIni">Fecha inicial:</label>
+    <input type="date" id="dateFechaIni" name="fechaIni" requiered><br />
+    <label for="dateFechaFin">Fecha Final:</label>
+    <input type="date" id="dateFechaFin" name="fechaFin" required>
+    <input type="submit" value="Listar" id="btnListarArticulos">
+</form>
+<br>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Codigo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nombre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Descripcion)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Precio)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+    @if(Model != null){
+        @foreach (var item in Model) {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Codigo)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Nombre)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Descripcion)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Precio)
+                    </td>
+                </tr>
+        }   
+    }
+    </tbody>
+</table>
+<div style="display:flex;justify-content:center;">
+    @for (int i = 1; i <= ViewBag.Paginas; i++) {
+        <form method="post">
+            <input type="submit" value="@i">
+            <input type="hidden" name="pagina" value="@i">
+            <input type="hidden" name="fechaIni" value="@ViewBag.FechaIni">
+            <input type="hidden" name="fechaFin" value="@ViewBag.FechaFin">
+        </form>
+    }
+</div>
